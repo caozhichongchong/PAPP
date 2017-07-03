@@ -1,0 +1,3 @@
+Query_id	Subject_id	identity	alignment_length	mismatches	gap_openings	q._start	q._end	s._start	s._end	e-value	bit_score
+3-CAP_IB-HKU-1_13038_1	3-CAP_IB-HKU-1_13038_4	100.00	412	0	0	1	412	1	412	0.0	 772
+3-CAP_IB-HKU-1_13038_2	3-CAP_IB-HKU-1_13038_5	100.00	327	0	0	1	327	1	327	0.0	 613
